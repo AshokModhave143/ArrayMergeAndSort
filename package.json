@@ -1,0 +1,11 @@
+{
+  "name": "assignmentarraymerge",
+  "version": "1.0.0",
+  "description": "Merge two integer array allowing duplicated and sort them",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Ashok Modhave",
+  "license": "ISC"
+}
